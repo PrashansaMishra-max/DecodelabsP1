@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Environment Variables
+.env
+
+# Generated Data
+cleaned_data/*.csv
