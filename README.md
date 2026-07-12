@@ -4,7 +4,7 @@
 
 This project is part of the DecodeLabs Data Analytics Assignment. It focuses on cleaning, preprocessing, exploring, and analyzing an e-commerce dataset using Python. The project demonstrates essential data analytics techniques such as data cleaning, missing value treatment, outlier detection, feature engineering, and exploratory data analysis (EDA) to derive meaningful business insights.
 
----
+
 
 ## 🎯 Objectives
 
@@ -16,7 +16,7 @@ This project is part of the DecodeLabs Data Analytics Assignment. It focuses on 
 - Generate meaningful business insights from the dataset.
 - Export the cleaned dataset for future analysis.
 
----
+
 
 ## 📂 Project Structure
 
@@ -41,7 +41,7 @@ DecodelabsP1/
 └── .gitignore
 ```
 
----
+
 
 ## 📁 Dataset Description
 
@@ -62,7 +62,7 @@ The dataset contains **1,200 e-commerce orders** with information including:
 - Referral Source
 - Total Price
 
----
+
 
 ## 🛠 Technologies Used
 
@@ -73,7 +73,7 @@ The dataset contains **1,200 e-commerce orders** with information including:
 - Seaborn
 - Jupyter Notebook
 
----
+
 
 ## 📈 Data Cleaning
 
@@ -86,7 +86,7 @@ The following preprocessing steps were performed:
 - Verified data types.
 - Exported the cleaned dataset.
 
----
+
 
 ## 📊 Outlier Detection
 
@@ -103,7 +103,7 @@ Outliers were detected using the **Interquartile Range (IQR)** method.
 
 The detected outliers in `TotalPrice` were retained because they represent genuine high-value customer purchases rather than data errors.
 
----
+
 
 ## ⚙️ Feature Engineering
 
@@ -116,7 +116,7 @@ The following new features were created:
 
 These engineered features help improve business analysis and provide additional insights into customer purchasing behavior.
 
----
+
 
 ## 📉 Exploratory Data Analysis (EDA)
 
@@ -133,7 +133,7 @@ The notebook includes visualizations for:
 - Order Value Categories
 - Correlation Heatmap
 
----
+
 
 ## 💡 Key Business Insights
 
@@ -144,7 +144,7 @@ The notebook includes visualizations for:
 - Feature engineering provided additional insights into customer purchasing behavior.
 - EDA helped identify customer preferences, payment trends, referral sources, and order value patterns.
 
----
+
 
 ## 🚀 How to Run
 
@@ -178,7 +178,7 @@ jupyter notebook
 notebooks/project1.ipynb
 ```
 
----
+
 
 ## 📦 Output
 
@@ -188,7 +188,7 @@ The cleaned dataset is available in:
 cleaned_data/cleaned_dataset.csv
 ```
 
----
+
 
 ## 👩‍💻 Author
 
@@ -198,7 +198,7 @@ B.Tech Computer Science Engineering (2027)
 
 Passionate about Data Analytics, Machine Learning, and Full-Stack Development.
 
----
+
 
 ## ⭐ Acknowledgement
 
